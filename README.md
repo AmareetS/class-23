@@ -1,2 +1,2 @@
-# class-23
-2 boxes/1 ground falling effect
+# p5.play-boilerplate
+Boiler plate for p5.play
